@@ -1,7 +1,7 @@
 name: table_calendar
 description: Highly customizable, feature-packed calendar widget for Flutter.
 version: 3.1.1
-homepage: https://github.com/aleksanderwozniak/table_calendar
+homepage: https://github.com/ApptimusMobile/table_calander
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
